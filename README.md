@@ -17,8 +17,12 @@
   * GCS: GCS Project Plan Deadline
 * 04/26
   * VeV: Test 1
+* 04/28
+  * DAS: Test 1
 * 05/23
   * FSD: 2nd Project Delivery
+* 05/26
+  * DAS: Test 2
 * 05/27
   * TEP: Test 2
 * 05/29
@@ -33,6 +37,8 @@
   * FSD: 3rd Project Delivery
 * 06/24
   * TEP: Test 3
+* 06/30
+  * DAS: Test 3
 * 07/01
   * TEP: Sub Test
 
