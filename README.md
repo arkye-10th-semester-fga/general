@@ -1,3 +1,41 @@
+# Deadlines
+
+* 04/10
+  * IHC: StoryBoard (Bitstripts / Storyboardthat)
+  * GCS: Snapcraft
+  * ED2: Sort Algorithms
+* 04/13
+  * FSD: 1st Project Delivery
+* 04/17
+  * VeV: Project 1st Delivery
+  * GCS: Test 1
+* 04/18
+  * FSD: Test 1
+* 04/22
+  * TEP: Test 1
+* 04/24
+  * GCS: GCS Project Plan Deadline
+* 04/26
+  * VeV: Test 1
+* 05/23
+  * FSD: 2nd Project Delivery
+* 05/27
+  * TEP: Test 2
+* 05/29
+  * GCS: Project Feedback
+* 06/06
+  * FSD: Test 2
+* 06/12
+  * GCS: Test 2
+* 06/19
+  * GCS: Final Project Presentation
+* 06/20
+  * FSD: 3rd Project Delivery
+* 06/24
+  * TEP: Test 3
+* 07/01
+  * TEP: Sub Test
+
 # Class Routine
 
 |     | Mon | Tue | Wed | Thu | Fri | Sat |
