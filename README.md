@@ -1,9 +1,5 @@
 # Deadlines
 
-* 04/10
-  * IHC: StoryBoard (Bitstripts / Storyboardthat)
-  * GCS: Snapcraft
-  * ED2: Sort Algorithms
 * 04/13
   * FSD: 1st Project Delivery
 * 04/17
@@ -14,6 +10,7 @@
 * 04/22
   * TEP: Test 1
 * 04/24
+  * ED2: Test 1
   * GCS: GCS Project Plan Deadline
 * 04/26
   * VeV: Test 1
